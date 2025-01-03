@@ -8,3 +8,10 @@ h1 {
     padding: 10px;
     margin: 10px;
 }
+
+.div-two {
+    background-color: teal;
+    padding: 15px;
+    margin: 10px;
+    color: white;
+}
